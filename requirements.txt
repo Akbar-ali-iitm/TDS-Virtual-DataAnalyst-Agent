@@ -1,0 +1,13 @@
+python-dotenv
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+scipy
+seaborn
+xlrd
+openpyxl
+lxml
+requests
+beautifulsoup4

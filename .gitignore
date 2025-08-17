@@ -1,0 +1,6 @@
+.env
+responses
+__pycache__
+uploads
+test.py
+main.py
