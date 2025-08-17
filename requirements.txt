@@ -11,3 +11,5 @@ openpyxl
 lxml
 requests
 beautifulsoup4
+google-generativeai
+google
